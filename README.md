@@ -1,4 +1,2 @@
 # Juned-shaikh
-this is my first repository
-
-SPORTS
+this is my first repository ADD LANE SPORTS
